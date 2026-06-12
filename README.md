@@ -1,0 +1,1 @@
+Multiple regression mass appraisal model for King County, WA residential properties, built in Python using OLS methodology aligned with IAAO standards. Features automated data preprocessing, model diagnostics, and an IAAO-compliant sales ratio study for assessment equity analysis.
